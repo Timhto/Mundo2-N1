@@ -5,6 +5,10 @@ body {
   font-size: xx-large;
   position: center;
   }
+  header {
+    background-color: rgba(0, 0, 0, 0.158);
+    
+  }
 
 .logo {
   margin-right: 10px;  
@@ -39,7 +43,7 @@ button {
   left: 50%;
   transform: translateX(-50%);
   padding: 10px 20px;
-  background-color: #e95b2363;
+  background-color: #e7d8d863;
   color: #000000;
   border: none;
   border-radius: 5px;

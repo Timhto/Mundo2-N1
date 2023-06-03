@@ -23,6 +23,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   // Redireciona o usuário para a página de sucesso
   header('Location: sucesso.html');
 } 
-else 
+else;
   // Redirecion
 
